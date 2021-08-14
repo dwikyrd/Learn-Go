@@ -1,2 +1,5 @@
 # Learn-Go
-learing go program language
+learning go program language
+
+ini tempat belajar
+

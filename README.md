@@ -9,6 +9,7 @@ create hello world golang
 
 ## lesson 2
 run hello world menggunakan reciever method
+go mod init dan tidy
 
 ## lesson 3
 membuat config file
